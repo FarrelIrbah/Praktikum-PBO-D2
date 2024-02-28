@@ -33,3 +33,9 @@ public class Titik {
         return counterTitik;
     }
 }
+
+
+// public Titik getRefleksiY() {
+//     return new Titik(-this.absis, this.ordinat);
+// }
+
